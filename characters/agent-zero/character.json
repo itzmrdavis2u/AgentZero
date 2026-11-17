@@ -1,0 +1,81 @@
+{
+  "id": "char_zero_001",
+  "name": "Alexander \"Alex\" Kane",
+  "aliases": [
+    "ZERO",
+    "Agent Zero"
+  ],
+  "role": "Deniable Ghost Operative",
+  "faction": "Unacknowledged / Controller Network (Former MI6)",
+  "status": "Officially Deceased (KIA)",
+  "age": 42,
+  "nationality": "British",
+  "relationships": [
+    {
+      "role": "Future wife (fiancée)",
+      "name": "",
+      "knows_truth": false,
+      "believes": "Kane was an Army sergeant killed in action on a mission.",
+      "notes": "He was planning to leave espionage to build a normal life with her."
+    },
+    {
+      "role": "Daughter",
+      "name": "",
+      "age_at_his_death": 7,
+      "knows_truth": false,
+      "believes": "Her father was an Army sergeant killed in action.",
+      "notes": "Primary emotional anchor; unaware of his real background."
+    }
+  ],
+  "psychology": {
+    "external_want": "Expose and dismantle the unnamed shadow network behind Operation Blackstar.",
+    "internal_need": "Overcome weaponized paranoia and learn when to place trust in an ally again.",
+    "fatal_flaw": "Extreme distrust; isolates himself and assumes every handler or friend is running an angle.",
+    "red_line": "",
+    "signature_rule": "Everybody leaves a trace.",
+    "personality_traits": [
+      "Preternaturally calm under pressure",
+      "Forensically observant",
+      "Dry British humor",
+      "Analytical and patient",
+      "Ruthless when cornered"
+    ]
+  },
+  "voice": {
+    "cadence": "Measured, calm, economical; grows quieter as danger escalates.",
+    "tone": "Dry, understated, subtly ironic",
+    "sample_lines": [
+      "If I'm dead, what exactly am I supposed to be?",
+      "Everybody leaves a trace."
+    ]
+  },
+  "visual": {
+    "appearance_summary": "British male, early 40s, lean athletic build, understated tailored suits or unbranded matte tactical gear.",
+    "signature_items": [
+      "Legacy encrypted communications receiver",
+      "Unmarked black dossier (0)",
+      "Unbranded minimalist timepiece"
+    ],
+    "image_prompt_seed": "British man in his early 40s, sharp observant eyes, weathered calm expression, dark tailored minimalist suit, moody cinematic lighting, realistic espionage thriller aesthetic"
+  },
+  "game_data": {
+    "archetype_class": "Infiltrator / Forensic Tactician",
+    "starting_inventory": [
+      "Encrypted Legacy Comms Device",
+      "Suppressed Compact Sidearm",
+      "Forensic Trace Scanner / Lockpick Kit",
+      "Forged Diplomatic Credentials (Burned)"
+    ],
+    "skills_and_abilities": [
+      "Trace Analysis (highlights environmental clues, footsteps, digital footprints, and micro-expressions)",
+      "Ghost Disguise (blends into diplomatic, corporate, or criminal environments)",
+      "Tactical De-escalation (avoids combat by exploiting patrol patterns and psychology)",
+      "Close-Quarters Precision"
+    ],
+    "dialogue_triggers": {
+      "on_greet": "You shouldn't know I'm here. Let's make this quick.",
+      "on_threatened": "You're making a mistake. And you're leaving far too much evidence behind.",
+      "on_idle": "Everybody leaves a trace. You just have to wait long enough for them to get careless."
+    }
+  }
+}
