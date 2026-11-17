@@ -10,21 +10,25 @@
   "status": "Officially Deceased (KIA)",
   "age": 42,
   "nationality": "British",
+  "timeline": {
+    "years_since_apparent_death": 7,
+    "note": "Kane was a secret special agent at the time of his apparent death. He only became Agent Zero after his apparent death (to be expanded)."
+  },
   "relationships": [
     {
-      "role": "Future wife (fiancée)",
-      "name": "",
+      "role": "Fiancée",
+      "name": "Evelyn Cross",
       "knows_truth": false,
       "believes": "Kane was an Army sergeant killed in action on a mission.",
-      "notes": "He was planning to leave espionage to build a normal life with her."
+      "notes": "Kane helped rescue her on an earlier mission (details undisclosed). They fell for each other immediately and were engaged about 2 months after meeting. She told him she was pregnant about 3 months in, one week before his final mission."
     },
     {
-      "role": "Daughter",
-      "name": "",
-      "age_at_his_death": 7,
+      "role": "Daughter (paternity unconfirmed to Kane)",
+      "name": "Jenny",
+      "approx_age_now": 7,
       "knows_truth": false,
-      "believes": "Her father was an Army sergeant killed in action.",
-      "notes": "Primary emotional anchor; unaware of his real background."
+      "believes": "Her father, if Kane, was an Army sergeant killed in action.",
+      "notes": "Unborn when Kane 'died'. He has never met her. He learned of her existence later and is not sure he is her father, but longs to be."
     }
   ],
   "psychology": {
