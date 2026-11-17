@@ -21,6 +21,17 @@
     "underground_phase_began": "After the controller made contact (post-coma)",
     "hidden_truth": "The controller arranged for Kane to be taken to hospital and survive. Zero does not know this initially; revealed later (to be expanded)."
   },
+  "operations": [
+    {
+      "name": "Operation Nightfall",
+      "kane_rank_at_time": "Sergeant (Special Forces)",
+      "objective": "Recon only: infiltrate a remote military complex, confirm a suspected WMD programme, photograph evidence, identify key personnel, exit undetected.",
+      "key_event": "Separated from his team, Kane entered the facility head's private office, photographed documents and maps, and photographed a framed picture showing two senior British Government figures looking friendly with the man running the facility.",
+      "betrayal": "Kane gave the photograph to his trusted CO, who told him to keep it out of his report. The official report then omitted the room and the photograph and concluded no weapons programme existed. The CO later denied any photograph existed.",
+      "consequence": "The CO's investigation alerted a secret network inside the British establishment (politicians, intelligence officials, military officers, businessmen, defence contractors, foreign intermediaries) who believe they are protecting Britain. They now know Kane has seen the photograph and he becomes a problem.",
+      "kane_knowledge_at_end": "Someone wants the photograph buried and knows he has seen it. He does not yet know the scale of the network."
+    }
+  ],
   "relationships": [
     {
       "role": "Fiancée",
