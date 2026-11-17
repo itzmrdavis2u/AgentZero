@@ -15,7 +15,11 @@
     "note": "Kane was a secret special agent at the time of his apparent death. He only became Agent Zero after his apparent death (to be expanded).",
     "coma_duration_years": 1,
     "coma_note": "Injuries from the mission of his apparent death left him in a coma for a year. He later recovered his memories over time (to be expanded).",
-    "learned_of_jenny_from": "The controller"
+    "learned_of_jenny_from": "The controller",
+    "family_told_dead": true,
+    "agency_believed_dead": true,
+    "underground_phase_began": "After the controller made contact (post-coma)",
+    "hidden_truth": "The controller arranged for Kane to be taken to hospital and survive. Zero does not know this initially; revealed later (to be expanded)."
   },
   "relationships": [
     {
@@ -38,7 +42,7 @@
     "external_want": "Expose and dismantle the unnamed shadow network behind Operation Blackstar.",
     "internal_need": "Overcome weaponized paranoia and learn when to place trust in an ally again.",
     "fatal_flaw": "Extreme distrust; isolates himself and assumes every handler or friend is running an angle.",
-    "red_line": "",
+    "red_line": "Will not harm an innocent person, and absolutely never a child. (Additional red lines to be defined.)",
     "signature_rule": "Everybody leaves a trace.",
     "personality_traits": [
       "Preternaturally calm under pressure",

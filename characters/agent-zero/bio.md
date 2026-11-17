@@ -9,7 +9,7 @@
 - **External Want:** Uncover the architects behind Operation Blackstar and dismantle the shadow network operating inside allied governments.
 - **Internal Need:** Relearn how to trust without letting paranoia turn him into the very kind of cold manipulator he is hunting.
 - **Fatal Flaw / Blind Spot:** Radical distrust. Because Blackstar proved even his friends and handlers were assets in a long con, Zero refuses to rely on allies—leaving himself isolated, predictable to enemies who know he works alone, and vulnerable to walking into traps set by his new mysterious controller.
-- **Red Line:** [To be defined — e.g., Refuses to burn innocent civilians or compromise active field agents whose covers were exposed by Blackstar]
+- **Red Lines:** He has several. The main ones: he will not harm an innocent person, and absolutely never a child. *(Others to be defined: see `story-expansion-log.md`.)*
 - **Signature Rule / Philosophy:** *"Everybody leaves a trace."* Zero’s core specialty is forensic observation, pattern recognition, and exploiting the tiny human mistakes others miss.
 
 ## Voice & Dialogue
@@ -26,7 +26,8 @@
 - **Military Origins:** Joined the British Army young; stood out not for raw aggression, but for preternatural calm under fire and tactical judgment (knowing *when not* to fight). Progressed into Tier-1 special operations overseas.
 - **MI6 Black Programme:** Recruited for off-the-books missions—hostage rescues, stolen weapons, missing agents, political blackmail—operating under deep cover as diplomats, businessmen, mercenaries, and smugglers.
 - **Operation Blackstar (The Betrayal):** Sent to recover a stolen database of undercover agents from a rogue arms broker, Kane discovered an MI6 insider had handed it over. His extraction was burned, his credentials wiped, and he was left for dead.
-- **The Empty Coffin:** Officially declared KIA with a sealed record and an empty casket. Survived badly wounded in hostile territory, going underground for months to piece together that Blackstar spans politicians, PMCs, intelligence officers, and organized crime.
+- **The Empty Coffin:** Kane was officially declared KIA with a sealed record and an empty casket. His family was led to believe he was dead, and the agency he worked for believed (or hoped) he was dead. After the coma and his recovery, the controller made contact, and his underground phase began then. He spent it piecing together that Blackstar spans politicians, PMCs, intelligence officers, and organized crime.
+- **The Controller's Secret (hidden from Zero for now):** The controller is the one who made sure Kane was taken to a hospital and survived. Zero does not know this at first. It becomes known much later in the story. *(Reveal to be expanded: see `story-expansion-log.md`.)*
 - **Evelyn Cross & the Life He Was Leaving For:** Kane helped rescue Evelyn Cross on an earlier mission (details undisclosed). They fell for each other at once and were engaged about 2 months after meeting. She believed he was an Army sergeant whose job took him away on missions. About 3 months in she told him she was pregnant, one week before the mission that led to his faked death. Getting out of the spy game for a normal life with her was his goal.
 - **Jenny:** Jenny was unborn when Kane "died", so he has never met her. He learned of her from his controller. He isn't sure he is her father, but he longs to be. She is about 7 now.
 - **Timeline:** About 7 years have passed between his apparent death and the present story. Kane is in his early 40s now. He was a secret special agent at the time of his death, but he only became Agent Zero after it (to be expanded later).
@@ -36,6 +37,6 @@
 ---
 
 ## Open Questions (To Explore Next)
-- [ ] **The Red Line:** What is the one line Zero will never cross, even if crossing it would hand him the architects of Blackstar?
+- [x] **The Red Line:** Main lines defined (no harm to innocents, never a child). More to come.
 - [ ] **The Personal Cost:** Partly answered (Evelyn Cross and Jenny, see above; he learned of Jenny from his controller). Still open: has he seen them since he "died"?
 - [ ] **The Photograph:** What was in the photograph sent with the coordinates that convinced a man who trusts nobody to walk into that abandoned facility?
