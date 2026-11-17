@@ -28,13 +28,14 @@
 - **Operation Blackstar (The Betrayal):** Sent to recover a stolen database of undercover agents from a rogue arms broker, Kane discovered an MI6 insider had handed it over. His extraction was burned, his credentials wiped, and he was left for dead.
 - **The Empty Coffin:** Officially declared KIA with a sealed record and an empty casket. Survived badly wounded in hostile territory, going underground for months to piece together that Blackstar spans politicians, PMCs, intelligence officers, and organized crime.
 - **Evelyn Cross & the Life He Was Leaving For:** Kane helped rescue Evelyn Cross on an earlier mission (details undisclosed). They fell for each other at once and were engaged about 2 months after meeting. She believed he was an Army sergeant whose job took him away on missions. About 3 months in she told him she was pregnant, one week before the mission that led to his faked death. Getting out of the spy game for a normal life with her was his goal.
-- **Jenny:** Jenny was unborn when Kane "died", so he has never met her. He learned of her later and isn't sure he is her father, but he longs to be. She is about 7 now.
+- **Jenny:** Jenny was unborn when Kane "died", so he has never met her. He learned of her from his controller. He isn't sure he is her father, but he longs to be. She is about 7 now.
 - **Timeline:** About 7 years have passed between his apparent death and the present story. Kane is in his early 40s now. He was a secret special agent at the time of his death, but he only became Agent Zero after it (to be expanded later).
+- **The Coma & Recovery:** The injuries Kane sustained on the mission of his "death" left him in a coma for a year. After he woke, he recovered his memories over time. *(To be expanded: see `story-expansion-log.md`.)*
 - **Becoming Zero:** Summoned via a dead comms channel with a photograph, coordinates, and a black dossier marked only with `0`. Recruited by an unnamed controller—leaving Kane perpetually questioning whether he's finally fighting the conspiracy or simply serving another layer of it.
 
 ---
 
 ## Open Questions (To Explore Next)
 - [ ] **The Red Line:** What is the one line Zero will never cross, even if crossing it would hand him the architects of Blackstar?
-- [ ] **The Personal Cost:** Partly answered (Evelyn Cross and Jenny, see above). Still open: has he seen them since he "died", and how did he learn about Jenny and her possible paternity?
+- [ ] **The Personal Cost:** Partly answered (Evelyn Cross and Jenny, see above; he learned of Jenny from his controller). Still open: has he seen them since he "died"?
 - [ ] **The Photograph:** What was in the photograph sent with the coordinates that convinced a man who trusts nobody to walk into that abandoned facility?

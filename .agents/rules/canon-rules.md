@@ -20,3 +20,8 @@
 - Whenever you update `bio.md`, `character.json`, or any world lore file after the user confirms a detail, automatically stage and commit the changes using a clear, descriptive commit message summarizing what changed (e.g., `git add . && git commit -m "Canon: Defined Agent Zero's red line and funeral details"`).
 - Do NOT push to `origin` automatically after every small edit unless the user asks to "back up" or "push to GitHub"—or push once at the end of a session when requested.
 - If the user wants to explore a risky rewrite, create a new Git branch (`git checkout -b sandbox/[topic]`) before making edits so `main` stays clean.
+
+## Expansion Tracking Protocol
+- Whenever the user says a part of the story is "to be expanded later" (or similar), add it to `story-expansion-log.md` in the workspace root under **Open**, with the character, a one-line description, and the date.
+- Do not invent details for logged items. Before starting a new topic, check the log and remind the user which items are still open.
+- When the user fleshes out a logged item, move it to **Resolved** and update `bio.md` and `character.json` as usual.

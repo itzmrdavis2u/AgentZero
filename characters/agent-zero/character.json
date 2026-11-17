@@ -12,7 +12,10 @@
   "nationality": "British",
   "timeline": {
     "years_since_apparent_death": 7,
-    "note": "Kane was a secret special agent at the time of his apparent death. He only became Agent Zero after his apparent death (to be expanded)."
+    "note": "Kane was a secret special agent at the time of his apparent death. He only became Agent Zero after his apparent death (to be expanded).",
+    "coma_duration_years": 1,
+    "coma_note": "Injuries from the mission of his apparent death left him in a coma for a year. He later recovered his memories over time (to be expanded).",
+    "learned_of_jenny_from": "The controller"
   },
   "relationships": [
     {
