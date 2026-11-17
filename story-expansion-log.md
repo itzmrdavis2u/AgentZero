@@ -11,6 +11,8 @@ Story points the user has said need to be expanded later. Check this file when p
 - [ ] **Controller saved Kane: the reveal** (Agent Zero) — The controller ensured Kane was taken to hospital and survived. Zero doesn't know at first; it becomes known much later. How and when it's revealed is open. Source: user, 2026-11-17.
 - [ ] **Additional red lines** (Agent Zero) — Main ones are set (no harm to innocents, never a child), but he has "a few" more still to define. Source: user, 2026-11-17.
 
+- [ ] **The background detail in the Nightfall photograph** (Agent Zero) — What Kane found when he enlarged the original (symbol, obscured person, or handwritten date) that led him to the name Blackstar. Source: user, 2026-11-17.
+
 ## Resolved
 
 (none yet)

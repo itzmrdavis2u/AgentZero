@@ -6,13 +6,13 @@
     "Agent Zero"
   ],
   "role": "Deniable Ghost Operative",
-  "faction": "Unacknowledged / Controller Network (Former MI6)",
+  "faction": "Unacknowledged / Controller Network (Former Special Forces)",
   "status": "Officially Deceased (KIA)",
   "age": 42,
   "nationality": "British",
   "timeline": {
     "years_since_apparent_death": 7,
-    "note": "Kane was a secret special agent at the time of his apparent death. He only became Agent Zero after his apparent death (to be expanded).",
+    "note": "Kane was a Special Forces operative at the time of his apparent death. He only became Agent Zero after he woke from his coma (to be expanded).",
     "coma_duration_years": 1,
     "coma_note": "Injuries from the mission of his apparent death left him in a coma for a year. He later recovered his memories over time (to be expanded).",
     "learned_of_jenny_from": "The controller",
@@ -23,12 +23,26 @@
   },
   "operations": [
     {
+      "name": "(Unnamed) The mission that kills Alex Kane",
+      "cover_story": "A completely unrelated operation: his unit is sent abroad to capture a high-value target.",
+      "reality": "No real mission. The operation was constructed to eliminate Kane: intelligence too perfect, exposed route, cancelled extraction, then communications lost.",
+      "outcome": "Kane survives, because the killers sent Special Forces to kill a Special Forces soldier. Officially he is killed in action: family and fiancée informed, funeral held, military records sealed.",
+      "whitehall_message": "KANE RESOLVED"
+    },
+    {
+      "name": "Operation Blackstar",
+      "status": "Present mission",
+      "objective": "Agent Zero's current operation to expose Blackstar, the code name for the secret group of people working within the government.",
+      "link_to_nightfall": "Kane first learned the name Blackstar from the original Nightfall photograph."
+    },
+    {
       "name": "Operation Nightfall",
       "kane_rank_at_time": "Sergeant (Special Forces)",
       "objective": "Recon only: infiltrate a remote military complex, confirm a suspected WMD programme, photograph evidence, identify key personnel, exit undetected.",
       "key_event": "Separated from his team, Kane entered the facility head's private office, photographed documents and maps, and photographed a framed picture showing two senior British Government figures looking friendly with the man running the facility.",
       "betrayal": "Kane gave the photograph to his trusted CO, who told him to keep it out of his report. The official report then omitted the room and the photograph and concluded no weapons programme existed. The CO later denied any photograph existed.",
       "consequence": "The CO's investigation alerted a secret network inside the British establishment (politicians, intelligence officials, military officers, businessmen, defence contractors, foreign intermediaries) who believe they are protecting Britain. They now know Kane has seen the photograph and he becomes a problem.",
+      "twist": "Kane secretly kept the original memory card; the copy he gave his CO was downloaded from his equipment. Enlarging the original later revealed a background detail (symbol, obscured person, or handwritten date; to be defined) that led him to the name BLACKSTAR. He first assumed it was the weapons programme; it is actually the organisation protecting it.",
       "kane_knowledge_at_end": "Someone wants the photograph buried and knows he has seen it. He does not yet know the scale of the network."
     }
   ],
@@ -50,7 +64,7 @@
     }
   ],
   "psychology": {
-    "external_want": "Expose and dismantle the unnamed shadow network behind Operation Blackstar.",
+    "external_want": "Expose Blackstar, the secret group working within the government (Operation Blackstar, the present mission).",
     "internal_need": "Overcome weaponized paranoia and learn when to place trust in an ally again.",
     "fatal_flaw": "Extreme distrust; isolates himself and assumes every handler or friend is running an angle.",
     "red_line": "Will not harm an innocent person, and absolutely never a child. (Additional red lines to be defined.)",
